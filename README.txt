@@ -5,6 +5,8 @@
 	README.txt decribes each experiment setting.
 	"demo" folder in each version shows the real time simulation video.
 5. The project report is in "report" folder.
+6. DQN and its variants: Double DQN, Dueling DQN, Prioritized DQN are in "DQNs" folder.
+7. AC, A3C algorithms are in "AC_A3C" folder
 ***********************************************************************************************************
 ***********************************************************************************************************
 Commands to run:
