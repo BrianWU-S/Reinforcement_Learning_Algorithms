@@ -10,8 +10,9 @@
 ***********************************************************************************************************
 ***********************************************************************************************************
 Commands to run:
-
+Go into "RL_algorithms_Mujoco" folder, run:
 python run.py --env_name xxx --method xxx
+
 
 Available options:
 legal_env = [['VideoPinball-ramNoFrameskip-v4', 'BreakoutNoFrameskip-v4', 'PongNoFrameskip-v4', 'BoxingNoFrameskip-v4'],
