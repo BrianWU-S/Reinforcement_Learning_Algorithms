@@ -1,0 +1,2 @@
+File "D:\anaconda\envs\AI_1\lib\site-packages\mujoco_py\mjviewer.py", line 104, in render
+    mjlib.mjv_updateCameraPose(byref(self.cam), rect.width*1.0/rect.height)	--> mjlib.mjv_updateCameraPose(byref(self.cam), rect.width*1.0/(rect.height+1e-12)) 

@@ -1,0 +1,69 @@
+Mon Jun  7 19:41:25 2021
+ERROR: Could not open activation key file C:\Users\86157/.mujoco/mjkey.txt\mjkey.txt
+
+Mon Jun  7 19:42:00 2021
+ERROR: Could not open activation key file C:\Users\86157/.mujoco/mjkey.txt\mjkey.txt
+
+Mon Jun  7 19:42:22 2021
+ERROR: Could not open activation key file C:\Users\86157/.mujoco/mjkey.txt\mjkey.txt
+
+Mon Jun  7 19:43:23 2021
+ERROR: Could not open activation key file C:\Users\86157/.mujoco/mjkey.txt\mjkey.txt
+
+Mon Jun  7 19:47:32 2021
+ERROR: Could not open activation key file C:\Users\86157/.mujoco/mjkey.txt\mjkey.txt
+
+Wed Jun  9 13:56:51 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.1040.
+
+Wed Jun  9 13:56:53 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:56:54 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:56:56 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:56:58 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:00 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:02 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:04 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:06 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:08 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:09 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:11 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:13 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:15 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:17 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:19 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:20 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+
+Wed Jun  9 13:57:22 2021
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0000.
+

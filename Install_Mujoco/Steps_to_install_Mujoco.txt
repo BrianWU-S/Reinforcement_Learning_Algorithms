@@ -1,0 +1,37 @@
+1.
+conda create -n mujoco python==3.6.8
+conda install numpy
+conda activate mujoco
+pip install mujoco_py==0.5.7
+2.
+MuJoCo Trial License: 30 days
+https://www.roboti.us/license.html    --> register, you will receive an email with your activation key and license text.
+3.
+Mujoco download:
+https://www.roboti.us/		--> version: mujoco 131 win64
+4.
+cd C:\Users\Administrator
+mkdir .mujoco
+unzip mjpro131 win64 file to C:\Users\Administrator\.mujoco 
+copy LICENSE.txt, mjkey.txt these two file to C:\Users\Administrator and C:\Users\Administrator\.mujoco\mjpro131\bin 
+5.
+Add environment variables:
+C:\Users\Administrator\.mujoco\mjpro131
+C:\Users\Administrator\.mujoco\mjpro131\bin
+C:\Users\Administrator\.mujoco\mjpro131\bin\mjkey.txt
+6.
+Modify python file:
+Go to conda environment folder, find \mujoco\Lib\site-packages\mujoco_py folder,
+modify these 3 files:
+(i) Try editing mjlib.py, replacing "bin/mujoco131.lib" with "bin/mujoco131.dll" in the loader.
+(ii) explicitly specify platname = "win" in platname_targdir.py
+(iii) Replace:  
+result = mjlib.mj_activate(file_path)
+to
+result = mjlib.mj_activate(file_path + '\\mjkey.txt')
+in register_license() function in mjcore.py.
+7.
+Test mujoco:
+cd C:\Users\Administrator\.mujoco\mjpro131\bin
+simulate.exe ../model/Humanoid
+
