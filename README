@@ -7,6 +7,9 @@
 5. The project report is in "report" folder.
 6. DQN and its variants: Double DQN, Dueling DQN, Prioritized DQN are in "DQNs" folder.
 7. AC, A3C algorithms are in "AC_A3C" folder
+8. The knowledge points of RL algorithms, which includes PPO, DPPO, DDPG, DQN (Double DQN, Dueling DQN, Prioritized DQN), AC, A3C, Policy gradient, Q-learning, are 
+in "Knowledge points" folder.
+9. The slides of SJTU CS485 course are in "Slides" folder and their corresponding review notes are in "Lecture notes" subfolder.
 ***********************************************************************************************************
 ***********************************************************************************************************
 Commands to run:
